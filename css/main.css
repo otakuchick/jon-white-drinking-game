@@ -1,0 +1,48 @@
+body {
+	background: url(../img/bg-stars.gif);
+	color: green;
+	font-family: serif;
+	font-size: 18px;
+	line-height: 24px;
+	text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+table {
+	background-color: #ffd74d;
+}
+td {
+	background-color: #fefeeb;
+}
+h1 {
+	color: black;
+	font-family: courier;
+	font-size: 10px;
+	font-weight: normal;
+	line-height: 10px;
+	margin: 0;
+	text-shadow: none;
+}
+h2 {
+	color: aqua;
+	font-size: 32px;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+}
+li {
+	font-weight: bold;
+	line-height: 30px;
+}
+.quote {
+	font-style: italic;
+}
+.aside {
+	display: block;
+	font-style: italic;
+}
+.description {
+	font-weight: normal;
+}
+.blue {
+	color: blue;
+}
+.red {
+	color: red;
+}
